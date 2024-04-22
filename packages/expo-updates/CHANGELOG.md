@@ -13,6 +13,7 @@
 ### 💡 Others
 
 - Bumped the underlying SQLite version to 3.45.3 on iOS. ([#28358](https://github.com/expo/expo/pull/28358) by [@kudo](https://github.com/kudo))
+- Fixed error recovery E2E test on iOS. ([#28372](https://github.com/expo/expo/pull/28372) by [@kudo](https://github.com/kudo))
 
 ## 0.25.0 — 2024-04-18
 
